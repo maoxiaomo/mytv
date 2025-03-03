@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-02 13:42:50,url
+2025-03-03 13:42:28,url
 央视频道,#genre#
 CCTV1,http://58.221.214.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.138.22.30:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -854,7 +854,6 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 深圳卫视,http://61.138.128.226:19901/tsfile/live/0126_1.m3u8
 深圳卫视,http://117.27.190.42:9998/tsfile/live/23274_1.m3u8
 深圳卫视,http://111.61.236.247:9081/hls/38/index.m3u8
-深圳卫视,http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8
 深圳卫视,http://111.160.17.2:59901/tsfile/live/0001_49.m3u8
 深圳卫视,http://117.27.190.42:9998/tsfile/live/23274_1.m3u8?key=txiptv
@@ -864,6 +863,7 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 深圳卫视,http://122.9.151.210:2669/rtp/238.255.2.61:5999
 深圳卫视,http://122.9.151.210:6209/rtp/238.255.2.61:5999
 深圳卫视,http://122.9.151.210:8088/rtp/238.255.2.61:5999
+深圳卫视,http://139.196.151.191:6636/rtp/239.45.3.231:5140
 广东卫视,http://220.249.114.102:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -914,7 +914,6 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8
-广西卫视,http://115.149.139.141:10001/tsfile/live/1037_1.m3u8?blog.ntnas.top
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://117.27.190.42:9998/tsfile/live/23269_1.m3u8
 广西卫视,http://111.160.17.2:59901/tsfile/live/0001_44.m3u8
@@ -924,6 +923,7 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 广西卫视,http://117.27.190.42:9998/tsfile/live/23269_1.m3u8?key=txiptv
 广西卫视,http://110.53.218.182:9902/tsfile/live/0113_1.m3u8
 广西卫视,http://183.11.239.36:808/hls/56/index.m3u8
+广西卫视,http://122.9.151.210:8088/rtp/238.255.2.64:5999
 厦门卫视,http://220.164.192.48:50085/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 厦门卫视,http://124.128.73.58:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://117.27.190.42:9998/tsfile/live/23282_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1345,9 +1345,7 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 天津卫视,http://58.221.214.82:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://111.160.17.2:59901/tsfile/live/0001_21.m3u8
 天津卫视,http://61.156.228.12:8154/tsfile/live/0135_1.m3u8
-天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top
 天津卫视,http://111.61.236.247:9081/hls/29/index.m3u8
-天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8
 天津卫视,http://61.138.128.226:19901/tsfile/live/0135_1.m3u8
 天津卫视,http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
 天津卫视,http://116.128.242.83:9901/tsfile/live/1008_1.m3u8
@@ -1355,6 +1353,8 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 天津卫视,http://110.53.218.182:9902/tsfile/live/0135_1.m3u8
 天津卫视,http://111.160.17.2:59901/tsfile/live/0001_21.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://110.53.218.182:9902/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://123.56.129.203:4310/rtp/225.1.8.136:8144
+天津卫视,http://122.9.151.210:8088/rtp/238.255.2.99:5999
 海南卫视,http://58.221.214.82:9901/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://117.27.190.42:9998/tsfile/live/23273_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://117.27.190.42:9998/tsfile/live/23272_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1544,6 +1544,8 @@ CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
 4K影视,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+搞笑喜剧,http://cdn.jdshipin.com:8880/huya.php?id=11342423
+科幻电影,http://43.136.119.99/yy.php?id=1354930209
 家庭影院,http://123.56.129.203:5651/rtp/225.1.8.253:4120
 动作影院,http://123.56.129.203:5651/rtp/225.1.8.252:4120
 喜剧影院,http://123.56.129.203:5651/rtp/225.1.8.251:4120
@@ -1561,6 +1563,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 济南影视,http://139.129.231.228:50060/rtp/239.21.1.65:5002
 美亚电影,http://ku9.fr.to/smt.php?id=meiyamovie_twn$1920x1080
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8$1920x1080
+万州影视,http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
 东方影视,http://139.196.151.191:7008/rtp/239.45.3.237:5140
 东方影视,http://139.196.151.191:3753/rtp/239.45.3.237:5140
 东方影视,http://139.196.151.191:6456/rtp/239.45.3.237:5140
